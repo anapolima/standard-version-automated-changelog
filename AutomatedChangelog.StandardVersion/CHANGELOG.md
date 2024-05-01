@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/anapolima/standard-version-automated-changelog/compare/v1.1.0...v1.1.1) (2024-05-01)
+
+
+### Bug Fixes
+
+* Second message ([147c3b3](https://github.com/anapolima/standard-version-automated-changelog/commit/147c3b321bed3fe58b85ad9d8f8e3f89a8536e4e))
+
 ## [1.1.0](https://github.com/anapolima/standard-version-automated-changelog/compare/v1.0.0...v1.1.0) (2024-05-01)
 
 
