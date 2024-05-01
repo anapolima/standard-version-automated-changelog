@@ -1,0 +1,1 @@
+# standard-version-automated-changelog
